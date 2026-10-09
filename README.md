@@ -1,4 +1,4 @@
-```html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -741,4 +741,3 @@ if ("IntersectionObserver" in window &&
 </script>
 </body>
 </html>
-```
